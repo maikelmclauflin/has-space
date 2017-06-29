@@ -2,6 +2,7 @@
   "name": "can-write",
   "version": "1.0.0",
   "description": "",
+  "repository":"git@github.com:mmclau14/can-write.git",
   "main": "index.js",
   "dependencies": {
     "diskspace": "^2.0.0"
