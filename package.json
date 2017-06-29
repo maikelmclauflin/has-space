@@ -1,8 +1,8 @@
 {
   "name": "can-write",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "repository":"git@github.com:mmclau14/can-write.git",
+  "repository": "git@github.com:mmclau14/can-write.git",
   "main": "index.js",
   "dependencies": {
     "diskspace": "^2.0.0"
@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "share":"npm version patch && git push && npm publish"
+    "share": "npm version patch && git push && npm publish"
   },
   "keywords": [],
   "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
