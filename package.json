@@ -1,8 +1,8 @@
 {
-  "name": "can-write",
+  "name": "has-space",
   "version": "1.0.1",
   "description": "",
-  "repository": "git@github.com:mmclau14/can-write.git",
+  "repository": "git@github.com:mmclau14/has-space.git",
   "main": "index.js",
   "dependencies": {
     "diskspace": "^2.0.0"
